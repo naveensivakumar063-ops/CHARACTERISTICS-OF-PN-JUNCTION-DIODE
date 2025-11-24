@@ -1,8 +1,10 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-AIM:
+### Name:Naveen Siva Kumar
+### Reg no: 212223210017
+## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
-COMPONENTS REQUIRED:
+## COMPONENTS REQUIRED:
 S.NO COMPONENTS RANGE TYPE QUANTITY
 1. Regulated dual power supply (RPS) (0 – 30 V) 1
 2. Ammeter (0 – 30)
@@ -18,10 +20,10 @@ MC
 5. Bread board 1
 6. Single strand connecting wires few
 
-Circuit Diagram:
+## Circuit Diagram:
 <img width="595" height="545" alt="image" src="https://github.com/user-attachments/assets/fa186dab-2ec5-428f-8f3c-c8d8ad319086" />
 
-PROCEDURE:
+## PROCEDURE:
 
 i. Forward Bias condition
 1. Connect the circuit as per the given circuit diagram shown in figure:1
@@ -39,8 +41,12 @@ Note the corresponding current reading in Ammeter.
 Tabulation :
 <img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
 
-Model Graph:
+## Model Graph:
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
 
 
-Result:
+## Result:
+<img width="581" height="552" alt="Forward bias" src="https://github.com/user-attachments/assets/fb0d880d-99d0-463d-a57b-692aae1710be" />
+<img width="578" height="551" alt="reverse bias" src="https://github.com/user-attachments/assets/0ddbe748-5911-4e68-a874-f03ffc53fef2" />
+
+
